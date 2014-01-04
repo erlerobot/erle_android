@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/102/trunk/Android/apps/btjoystick/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/101/trunk/Android/apps/btjoystick/res/layout/main.xml
+END
+device_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/76/trunk/Android/apps/btjoystick/res/layout/device_list.xml
+END
+device_name.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/76/trunk/Android/apps/btjoystick/res/layout/device_name.xml
+END
+preferences.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/Android/apps/btjoystick/res/layout/preferences.xml
+END

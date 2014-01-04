@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/103/trunk/Android/apps/btjoystick/src/org/projectproto/btjoystick
+END
+BluetoothJoystickActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/103/trunk/Android/apps/btjoystick/src/org/projectproto/btjoystick/BluetoothJoystickActivity.java
+END
+OptionsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/102/trunk/Android/apps/btjoystick/src/org/projectproto/btjoystick/OptionsActivity.java
+END
+DeviceListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/76/trunk/Android/apps/btjoystick/src/org/projectproto/btjoystick/DeviceListActivity.java
+END
+BluetoothRfcommClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/102/trunk/Android/apps/btjoystick/src/org/projectproto/btjoystick/BluetoothRfcommClient.java
+END
